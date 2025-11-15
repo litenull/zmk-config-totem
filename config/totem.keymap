@@ -47,7 +47,7 @@
         //--------------------------------------------------
         sym_func {
             bindings = <
-                &kp EXCL      &kp LPAR    &kp RPAR     &kp LBKT     &kp RBKT      &kp LCURL    &kp RCURL     &kp LESS_THAN   &kp GREATER_THAN  &kp QMARK
+                &kp EXCL      &kp LPAR    &kp RPAR     &kp LBKT     &kp RBKT      &kp LCBR     &kp RCBR      &kp LESS_THAN   &kp GREATER_THAN  &kp QMARK
                 &kp AMPERSAND &kp PLUS    &kp MINUS    &kp STAR     &kp EQUAL     &kp PIPE     &kp BSLH       &kp AT          &kp CARET         &kp DOLLAR
 &kp GRAVE        &kp TILDE   &kp UNDERSCORE  &kp COLON   &kp SEMI    &kp APOS    &kp DQT        &kp COMMA       &kp DOT          &kp FSLH       &none     &none
 
